@@ -15,13 +15,14 @@ class Stack {
         //Initialize your constructor 
     } 
   
+    
     boolean push(int x) 
     { 
         //Check for stack Overflow
         //Write your code here
     } 
   
-    
+
     int pop() 
     { 
         //If empty return 0 and print " Stack Underflow"
