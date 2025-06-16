@@ -21,6 +21,7 @@ class Stack {
         //Write your code here
     } 
   
+    
     int pop() 
     { 
         //If empty return 0 and print " Stack Underflow"
